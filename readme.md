@@ -1,26 +1,4 @@
 # Learn Software Engineering and Modern Business Practices with MyWebClass Simulation
-## Instructor Introduction
-Dear students,
-
-As you begin the first sprint of our simulation, I wanted to clarify what is expected of you in terms of grading and assessment. The simulation will be worth a significant portion of your grade, so it is important that you take it seriously and work hard to meet the requirements.
-
-The simulation will be assessed based on several factors, including the quality of the website you create, the level of collaboration and communication within your team, adherence to timelines, and adherence to the guidelines set forth in the requirements text.
-
-In terms of the website itself, you will be assessed based on factors such as functionality, user experience, design, and content. It is important that your website is fully functional and meets the needs of the target audience. Additionally, the website should be aesthetically pleasing, easy to navigate, and have engaging content.
-
-In terms of collaboration and communication, you will be assessed based on your ability to work effectively with your team members and communicate regularly with the project leader/manager. It is important that you are responsive to feedback, contribute to team meetings and discussions, and share your expertise with your team members.
-
-Adherence to timelines and guidelines is also critical for success in the simulation. You will be expected to complete each task within the designated timeframe and follow the guidelines set forth in the requirements text. Failure to adhere to these guidelines may result in a deduction of points.
-
-I encourage you to take this simulation seriously and work hard to meet the requirements. Remember that this is an opportunity for you to gain valuable experience in web development and working in a startup environment.
-
-If you have any questions or concerns about the assignments, grading or assessment process, please do not hesitate to reach out to me or the graders.
-
-Best regards,
-
-P. Williams
-
-# Submit any questions or Issues to the Repository, so that they can be tracked and resolved.
 
 ## Project Introduction
 
